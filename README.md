@@ -29,9 +29,6 @@ This tool demonstrates the following data exfiltration capabilities:
     *   Other Data: Back up codes and general functions
     *   Screenshot: Desktop screenshot
 
-*   **Transmission:**
-    *   Sends collected data (token, password, and email) upon user login or password change.
-
 
 ## Discord Info
 
@@ -39,6 +36,9 @@ This tool demonstrates the following data exfiltration capabilities:
     * User Token
     * Password
     * Email
+    * Tasks
+    * libaries
+    * shutdown
 
 ## Data Details
 
@@ -49,14 +49,22 @@ This tool attempts to collect the following sensitive data types:
 *   **Game Data:** Information from specific games (Minecraft, Roblox, etc).
 *   **System Information:** Data about the user's system, network, and location.
 
-## Important Notes
-
-*   **Ethical Implications:** This tool highlights the risks of data exfiltration. Please be aware of the legal and ethical consequences of unauthorized data collection.
-*   **Educational Purpose:** This tool is not meant for malicious purposes. Please use it responsibly to understand and mitigate potential risks.
-
-## Usage
 
 
+## Usage 🔧
+
+
+                      commands list 🧑‍💻
+     
+         /ip`: Display IP configuration.
+         /shutdown`: Shut down the computer.
+         /libraries`: Browse system libraries.
+         /tasks`: Upload the list of running tasks.
+         /upload`: Upload a file to the computer.
+         /retrieve`: Retrieve a file from a specific path.
+         /cookie_export`: Export browser cookies.
+         /clear`: Deletes all the messages in the channel.
+        
 1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).
 2.  Install the required dependencies using pip:
     ```
@@ -72,7 +80,7 @@ Then you want to run
     ```
 
 
-## License
+## License 🌍
 
 [Free use dont share it unresponibily you can fork it or skid it idc.]
 
