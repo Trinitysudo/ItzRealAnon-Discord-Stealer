@@ -1,6 +1,6 @@
-# [Project Name]
+# [ItzRealAnonomyous Discord Stealer 📁]
 
-## Disclaimer
+🔴## Disclaimer
 **This project is intended for educational and research purposes only. It is designed to demonstrate the potential vulnerabilities and dangers of data exfiltration. Use it responsibly and with explicit consent. Misuse of this code could lead to severe legal and ethical consequences.**
 
 **Do not use this tool to target individuals or systems without their explicit permission.**
@@ -13,7 +13,7 @@ This repository contains code that illustrates how various types of sensitive us
 
 This tool demonstrates the following data exfiltration capabilities:
 
-*   **Data Acquisition:**
+🟢*   **Data Acquisition:**
     *   Discord Information: User token, password, email
     *   Browser Data: Cookies, Passwords, History
     *   Game Data: Minecraft Session Info, Roblox Cookie, etc.
