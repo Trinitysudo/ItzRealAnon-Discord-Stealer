@@ -32,8 +32,6 @@ This tool demonstrates the following data exfiltration capabilities:
 *   **Transmission:**
     *   Sends collected data (token, password, and email) upon user login or password change.
 
-*   **Injection:**
-    *   Illustrates Discord injection capabilities.
 
 ## Discord Info
 
@@ -60,14 +58,9 @@ This tool attempts to collect the following sensitive data types:
 
 [Explain how to use the code here - replace with instructions].
 
-## Contributing
-
-[Optional: Instructions for contributing to this project]
 
 ## License
 
 [Specify the license for your project, e.g., MIT License]
 
 ---
-
-**Disclaimer:** This tool is intended for research and educational purposes only. Misuse of this code is solely the user's responsibility.
