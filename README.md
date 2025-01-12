@@ -1,5 +1,8 @@
 # [ItzRealAnonomyous Discord Stealer 📁]
 
+![Stealer Logo](https://github.com/user-attachments/assets/2ce8219a-9ac9-4e70-8a68-116a8937a21e)
+
+
 🔴## Disclaimer
 **This project is intended for educational and research purposes only. It is designed to demonstrate the potential vulnerabilities and dangers of data exfiltration. Use it responsibly and with explicit consent. Misuse of this code could lead to severe legal and ethical consequences.**
 
@@ -54,11 +57,10 @@ This tool attempts to collect the following sensitive data types:
 ## Usage 🔧
 
 
-                ![Stealer Logo](https://github.com/user-attachments/assets/00c0da96-b3f7-4165-a075-d8c155b97316)
-  commands list 🧑‍💻
-     
+                
+                commands list 🧑‍💻
+```                
            /ip: Display IP configuration.
-```
           /shutdown: Shut down the computer.
           /tasks: Upload running tasks.
           /upload: Upload a file.
