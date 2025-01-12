@@ -54,16 +54,24 @@ This tool attempts to collect the following sensitive data types:
 ## Usage 🔧
 
 
-                      commands list 🧑‍💻
+                ![Stealer Logo](https://github.com/user-attachments/assets/00c0da96-b3f7-4165-a075-d8c155b97316)
+  commands list 🧑‍💻
      
-         /ip`: Display IP configuration.
-         /shutdown`: Shut down the computer.
-         /libraries`: Browse system libraries.
-         /tasks`: Upload the list of running tasks.
-         /upload`: Upload a file to the computer.
-         /retrieve`: Retrieve a file from a specific path.
-         /cookie_export`: Export browser cookies.
-         /clear`: Deletes all the messages in the channel.
+           /ip: Display IP configuration.
+```
+          /shutdown: Shut down the computer.
+          /tasks: Upload running tasks.
+          /upload: Upload a file.
+          /retrieve: Retrieve a file.
+          /cookie_export: Export browser cookies.
+          /clear: Clear channel messages.
+          /discord_token: Retrieve Discord token.
+          /directories: Browse Directories.
+          /restart_explorer: Restarts explorer.exe.
+          /end_explorer: Ends explorer.exe.
+          /screenshot: Take a screenshot.
+          /restart: Restarts the bot.
+```
         
 1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).
 2.  Install the required dependencies using pip:
