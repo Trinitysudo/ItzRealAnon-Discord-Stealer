@@ -11,11 +11,9 @@
 ## Overview
 
 This repository contains code that illustrates how various types of sensitive user information can be collected and transmitted. The primary purpose of this project is to educate users about the risks associated with such technologies and to highlight potential attack vectors.
-
-## Features 📄
-
-
-🟢*   **Iformation Acquisition:**
+   
+## Features 
+📘                🟢*   **Information Acquisition:**
                                               
         *   Discord Information: User token, password, email
         *   Browser Data: Cookies, Passwords, History
@@ -44,7 +42,7 @@ This repository contains code that illustrates how various types of sensitive us
 
 
                 
-                commands list 🧑‍💻
+💻                commands list 🧑‍💻
 ```                
           /ip: Display IP configuration.
           /shutdown: Shut down the computer.
