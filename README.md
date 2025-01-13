@@ -45,30 +45,28 @@ get and after finishing the code ive made this is a hobby, i really enjoy coding
           /screenshot: Take a screenshot.
           /restart: Restarts the bot.
 ```
- Installation/Guide📘
-       
-1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).⬇️
+   Installation/Guide📘
+        
+   1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).⬇️
 
 
-3.  Install the required dependencies using pip:🟦
+   2.  Install the required dependencies using pip:pip install (Selected variable)🟦
     ```
-    pip install discord.py python-dotenv cryptography pyautogui 
+              pip install discord.py python-dotenv cryptography pyautogui 
     ```
-5.  Create a `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
+   3.  edit the `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
  
-   
-7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer (use your directory) 📂
  
   
-8: Change the directory to were your file is located🤖
-      ```
-    cd C:\Users\User\downloads\ItzRealSteale
-      ```
+   4: Change the directory to were your file is located (use your directory) 📂
+                            ```
+                cd C:\Users\User\downloads\ItzRealSteale
+                            ```
 
-9:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
-```
-   python main.py
-```
+   5:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
+                             ```
+                       python main.py
+                             ```
 
 
 ## License 🌍
