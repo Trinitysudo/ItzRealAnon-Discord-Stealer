@@ -54,18 +54,21 @@ This repository contains code that illustrates how various types of sensitive us
           /discord_token: Retrieve Discord token.
           /directories: Browse Directories.
           /restart_explorer: Restarts explorer.exe.
-          /end_explorer: Ends explorer.exe.
+          /Clipboard:  Displays the hosts clipboard
           /screenshot: Take a screenshot.
           /restart: Restarts the bot.
 ```
         
 1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).
-2.  Install the required dependencies using pip:
+2.  
+3.  Install the required dependencies using pip:
+4. 
     ```
     pip install discord.py python-dotenv cryptography pyautogui 
     ```
-3.  Create a `.env` file and set the `BOT_TOKEN` environment variable with your bot token.
-4.  Run the Python script, open terminal or command promt in admin accese then do cd C:\Users\User\downloads\ItzRealStealer Make sure you change the user to your computer name 
+5.  Create a `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).
+6.  
+7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer Make sure you change the user to your computer name 
 Then you want to run 
 
     ```
