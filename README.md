@@ -1,5 +1,5 @@
 
-## Overview
+## Info📂
 
    This is a single made project by sincerly myself it is written in python only, i did not steal or fork any code in this so this has taken a extreme amount
 of time and if you are willing PLEASE share your ideas, im so out of ideas/inspiration i cant think of what to add to this amazing project. This was just a tool for fun to see how far i could 
@@ -45,7 +45,7 @@ get and after finishing the code ive made this is a hobby, i really enjoy coding
           /screenshot: Take a screenshot.
           /restart: Restarts the bot.
 ```
-   Installation/Guide📘
+   ##Installation/Guide📘
         
    1.  Ensure you have Python . You can download it from [python.org](https://www.python.org/).⬇️
 
@@ -75,7 +75,7 @@ python main.py
 
 ---
 
-🔴## Disclaimer
+##🔴## Disclaimer
 **This project is intended for educational and research purposes only. It is designed to demonstrate the potential vulnerabilities and dangers of data exfiltration. Use it responsibly and with explicit consent. Misuse of this code could lead to severe legal and ethical consequences.**
 
 **Do not use this tool to target individuals or systems without their explicit permission.**
