@@ -59,22 +59,25 @@ This repository contains code that illustrates how various types of sensitive us
           /restart: Restarts the bot.
 ```
         
-1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).
-2.  
-3.  Install the required dependencies using pip:
-4. 
+1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).⬇️
+ 
+3.  Install the required dependencies using pip:🟩
     ```
     pip install discord.py python-dotenv cryptography pyautogui 
     ```
-5.  Create a `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).
-6.  
-7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer Make sure you change the user to your computer name 
-Then you want to run 
-
-    ```
+5.  Create a `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
+   
+7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer (use your directory)
+  
+8: Change the directory to were your file is located
+      ```
     cd C:\Users\User\downloads\ItzRealSteale
-    python stealer.py
-    ```
+      ```
+
+9:Run the code and make sure it dosent have any errors if it dose look at the crash.txt
+```
+   python main.py
+```
 
 
 ## License 🌍
