@@ -39,21 +39,21 @@ Make sure if you have any ideas or issues make a request for help Enjoy!.
 ```
    ##Installation/Guide📘
         
-##1.  Ensure you have Python . You can download it from [python.org](https://www.python.org/).⬇️
+## 1.  Ensure you have Python . You can download it from [python.org](https://www.python.org/).⬇️
 
             
-##2.  Install the required dependencies using pip:pip install (Selected variable)🟦
+## 2.  Install the required dependencies using pip:pip install (Selected variable)🟦
  ```
   pip install discord.py python-dotenv cryptography pyautogui 
  ```
-##3.  edit the `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
+## 3.  edit the `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
     
-##4: Change the directory to were your file is located (use your directory) 📂
+## 4: Change the directory to were your file is located (use your directory) 📂
  ```
  cd C:\Users\User\downloads\ItzRealSteale
  ```
     
-##5:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
+## 5:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
  ```
 python main.py
 ```
