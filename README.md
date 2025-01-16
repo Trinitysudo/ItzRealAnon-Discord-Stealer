@@ -1,5 +1,6 @@
 
-[ItzR](https://github.com/user-attachments/assets/a6c6c2f8-f522-44f2-be10-8395f4ed4cfe)
+![ItzR](https://github.com/user-attachments/assets/a4b9b2b1-eb5e-4b7d-ae1a-98b632edf5e1)
+
 ## Info!
 📂
 
