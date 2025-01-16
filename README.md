@@ -2,7 +2,7 @@
 ## Info📂
 
    ❗Disclamier!: This project is maintained by only one person and it is updated frequently as of 1/16/25 
-Make sure if you have any ideas or issues make a request for help Enjoy!.
+Make sure if you have any ideas or issues make a request for help Enjoy!(Check the Crash log.txt file for errors).
    
 ## Features 
 ℹ️                🔵*   **Information Acquisition:**
