@@ -1,5 +1,7 @@
 
-## Info📂
+[ItzR](https://github.com/user-attachments/assets/a6c6c2f8-f522-44f2-be10-8395f4ed4cfe)
+## Info!
+📂
 
    ❗Disclamier!: This project is maintained by only one person and it is updated frequently as of 1/16/25 
 Make sure if you have any ideas or issues make a request for help Enjoy!(Check the Crash log.txt file for errors).
