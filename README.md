@@ -1,9 +1,8 @@
 
 ## Info📂
 
-   This is a single made project by sincerly myself it is written in python only, i did not steal or fork any code in this so this has taken a extreme amount
-of time and if you are willing PLEASE share your ideas, im so out of ideas/inspiration i cant think of what to add to this amazing project. This was just a tool for fun to see how far i could 
-get and after finishing the code ive made this is a hobby, i really enjoy coding this and i plan to keep doing that fixing bugs and updating it on the regular thanks enjoy.
+   ❗Disclamier!: This project is maintained by only one person and it is updated frequently as of 1/16/25 
+Make sure if you have any ideas or issues make a request for help Enjoy!.
    
 ## Features 
 ℹ️                🔵*   **Information Acquisition:**
