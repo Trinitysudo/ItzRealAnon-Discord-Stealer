@@ -55,12 +55,7 @@ Make sure if you have any ideas or issues make a request for help Enjoy!(Check t
  ```
 ## 4.  edit the ".env" file and set the `BOT_TOKEN` text with your bot token 🗄
 
-    
-## 5. cd directory to were your file is located (use your directory) 📂
- ```
- cd C:\Users\User\downloads\ItzRealSteale
- ```
-    
+ 
 ## 5:Run the code and make sure it dosent have any issues 🤖
  ```
 python main.py
