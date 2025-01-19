@@ -44,15 +44,19 @@ Make sure if you have any ideas or issues make a request for help Enjoy!(Check t
         
 ## 1.  Ensure you have Python [python.org](https://www.python.org/).⬇️
 
-            
-## 2.  Install the required dependencies using pip ⬇️
+## 2. cd directory to were your file is located (use your directory) 📂
  ```
-  pip install discord.py python-dotenv cryptography pyautogui 
+ cd C:\Users\User\downloads\ItzRealSteale
  ```
-## 3.  edit the ".env" file and set the `BOT_TOKEN` text with your bot token 🗄
+        
+## 3.  Install the required dependencies using pip (run this in the root of the folder) ⬇️
+ ```
+  pip install -r requirements.txt
+ ```
+## 4.  edit the ".env" file and set the `BOT_TOKEN` text with your bot token 🗄
 
     
-## 4. cd directory to were your file is located (use your directory) 📂
+## 5. cd directory to were your file is located (use your directory) 📂
  ```
  cd C:\Users\User\downloads\ItzRealSteale
  ```
