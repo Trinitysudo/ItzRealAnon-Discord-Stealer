@@ -1,5 +1,6 @@
 
 ![ItzR](https://github.com/user-attachments/assets/a4b9b2b1-eb5e-4b7d-ae1a-98b632edf5e1)
+![original_trinitysudo_typewriter_text_dark](https://github.com/user-attachments/assets/9f6dbe10-ae35-474d-9f39-6f940985d04b)
 
 ## Info!
 📂
